@@ -5,7 +5,7 @@ Source: ftp://ftp.kde.org
 Files: *
 Copyright: 2005, Benjamin C Meyer (ben at meyerhome dot net)
 	   2005, Brian S. Stephan (bssteph at irtonline dot org)
-	   2003-2005, Ralf Hoelzer <ralf@well.com> 
+	   2003-2005, Ralf Hoelzer <ralf@well.com>
 License: LGPL-2.1
 
 Files: debian/*
@@ -46,5 +46,5 @@ License: GPL-2+
  with this program; if not, write to the Free Software Foundation, Inc.,
  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  .
- On Debian systems, the full text of the GNU General Public License version 2 
+ On Debian systems, the full text of the GNU General Public License version 2
  can be found in the file `/usr/share/common-licenses/GPL-2'.
