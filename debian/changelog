@@ -1,9 +1,8 @@
-sweeper (4:4.8.4-0r0) UNRELEASED; urgency=low
+sweeper (4:4.8.4-1) unstable; urgency=low
 
   * Team upload.
 
   [ Eshat Cakar ]
   * Initial packaging, split from kdeutils.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Jun 2012 13:02:12 +0200
-
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Tue, 19 Jun 2012 12:38:27 -0300
