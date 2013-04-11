@@ -1,4 +1,4 @@
-sweeper (4:4.10.2-1) UNRELEASED; urgency=low
+sweeper (4:4.10.2-1) experimental; urgency=low
 
   [ Diane Trout ]
   * Bump kde-sc-dev-latest build dependency to 4.10.2.
@@ -7,7 +7,7 @@ sweeper (4:4.10.2-1) UNRELEASED; urgency=low
   [ Sune Vuorela ]
   * Update uploaders.
 
- -- Diane Trout <diane@ghic.org>  Mon, 08 Apr 2013 21:36:55 -0700
+ -- Sune Vuorela <sune@debian.org>  Thu, 11 Apr 2013 07:04:32 +0000
 
 sweeper (4:4.8.4-1) unstable; urgency=low
 
