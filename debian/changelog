@@ -1,8 +1,8 @@
-sweeper (4:4.11.2-1) UNRELEASED; urgency=low
+sweeper (4:4.11.2-1) experimental; urgency=low
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 11:27:50 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 11:59:16 +0200
 
 sweeper (4:4.10.5-1) unstable; urgency=low
 
