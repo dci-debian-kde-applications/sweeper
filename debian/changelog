@@ -1,10 +1,10 @@
-sweeper (4:4.12.2-1) UNRELEASED; urgency=medium
+sweeper (4:4.12.2-1) experimental; urgency=medium
 
   * Bump Standards-Version to 3.9.5, no changes needed.
   * New upstream release.
   * Bump kde-sc-dev-latest build dependency.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 23:55:46 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:32:33 +0100
 
 sweeper (4:4.11.3-1) unstable; urgency=low
 
