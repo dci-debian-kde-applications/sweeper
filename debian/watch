@@ -1,2 +1,4 @@
 version=3
-ftp://ftp.kde.org/pub/kde/stable/([\d\.]*)/src/sweeper-([\d\.]*).tar.xz
+http://download.kde.org/stable/applications/([\d.]+)/src/sweeper-([\d.]+).tar.xz
+
+http://download.kde.org/unstable/applications/([\d.]+)/src/sweeper-([\d.]+).tar.xz
