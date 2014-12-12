@@ -11,7 +11,7 @@ Uploaders: Fathi Boudra <fabo@debian.org>,
 Build-Depends: cmake,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.12),
-               kdelibs5-dev (>= 4:4.11),
+               kdelibs5-dev (>= 4:14.12.0),
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
