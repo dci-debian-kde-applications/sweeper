@@ -15,8 +15,8 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
-Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/kde-sc/sweeper.git
-Vcs-Git: https://anonscm.debian.org/git/pkg-kde/kde-sc/sweeper.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/sweeper.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/sweeper.git
 
 Package: sweeper
 Section: utils
