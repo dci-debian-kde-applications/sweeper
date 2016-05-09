@@ -1,14 +1,17 @@
-sweeper (4:4.12.2-3~1.gbp6257ce) UNRELEASED; urgency=medium
+sweeper (4:4.12.2-3~2.gbp08e0e8) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @6257ce0642521a40e22f3c93019c36df93416ce5 **
+  ** SNAPSHOT build @08e0e83a230b97109c46ae438bbb45faa389825a **
 
   [ Maximiliano Curia ]
   * Update watch file.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update vcs uris to the applications one
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 13 Apr 2016 16:59:52 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 10:38:17 +0200
 
 sweeper (4:4.12.2-2) unstable; urgency=medium
 
