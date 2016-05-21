@@ -1,6 +1,4 @@
-sweeper (4:4.12.2-3~2.gbp08e0e8) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @08e0e83a230b97109c46ae438bbb45faa389825a **
+sweeper (4:4.12.2-3) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Update watch file.
@@ -11,7 +9,7 @@ sweeper (4:4.12.2-3~2.gbp08e0e8) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 10:38:17 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 23:57:11 +0200
 
 sweeper (4:4.12.2-2) unstable; urgency=medium
 
