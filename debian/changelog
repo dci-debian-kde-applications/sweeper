@@ -1,8 +1,15 @@
-sweeper (4:16.04.1-0neon) xenial; urgency=medium
+sweeper (4:4.12.2-3) unstable; urgency=medium
 
-  * New release
+  [ Maximiliano Curia ]
+  * Update watch file.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update vcs uris to the applications one
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:46:12 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 23:57:11 +0200
 
 sweeper (4:4.12.2-2) unstable; urgency=medium
 
