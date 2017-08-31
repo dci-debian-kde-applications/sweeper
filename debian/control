@@ -10,9 +10,19 @@ Uploaders: Fathi Boudra <fabo@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
-               kde-sc-dev-latest (>= 4:4.12),
-               kdelibs5-dev (>= 4:4.11),
-               pkg-kde-tools (>= 0.12)
+               extra-cmake-modules,
+               libkf5activitiesstats-dev,
+               libkf5bookmarks-dev,
+               libkf5config-dev,
+               libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
+               libkf5crash-dev,
+               libkf5doctools-dev,
+               libkf5i18n-dev,
+               libkf5kio-dev,
+               libkf5textwidgets-dev,
+               libkf5xmlgui-dev,
+               qtbase5-dev
 Standards-Version: 3.9.8
 Homepage: http://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/sweeper.git
@@ -26,5 +36,3 @@ Description: history and temporary file cleaner
  Sweeper can quickly remove temporary information, such as web page cookies,
  browser history, or the list of recently-opened documents.  It helps provide
  additional privacy on a system shared between multiple users.
- .
- This package is part of the KDE SC utilities module.
