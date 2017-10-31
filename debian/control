@@ -2,12 +2,11 @@ Source: sweeper
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Fathi Boudra <fabo@debian.org>,
-           Sune Vuorela <sune@debian.org>,
+Uploaders: Sune Vuorela <sune@debian.org>,
            Modestas Vainius <modax@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.12),
