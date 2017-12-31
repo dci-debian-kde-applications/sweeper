@@ -12,7 +12,7 @@ Build-Depends: cmake,
                kde-sc-dev-latest (>= 4:4.12),
                kdelibs5-dev (>= 4:4.11),
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.3
 Homepage: http://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/sweeper.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/sweeper.git
