@@ -1,9 +1,12 @@
-sweeper (4:16.08.0-2~) UNRELEASED; urgency=medium
+sweeper (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
-  * New revision
+  [ Maximiliano Curia ]
   * Update uploaders list as requested by MIA team (Closes: #879446)
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:04:17 +0100
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:04:17 +0100
 
 sweeper (4:16.08.0-1) unstable; urgency=medium
 
