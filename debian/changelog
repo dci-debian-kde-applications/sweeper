@@ -1,6 +1,6 @@
-sweeper (4:17.12.2-0r1) UNRELEASED; urgency=medium
+sweeper (4:17.12.2-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release:
     - switches to Qt5/KF5 (Closes: #875198)
   * Update the build dependencies following the port to Frameworks:
@@ -15,7 +15,7 @@ sweeper (4:17.12.2-0r1) UNRELEASED; urgency=medium
   * Break/replace against kde-l10n that ships translations.
   * Use https for Format in copyright.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Feb 2018 14:19:14 +0100
+ -- Pino Toscano <pino@debian.org>  Tue, 20 Feb 2018 21:27:44 +0100
 
 sweeper (4:17.08.3-1) unstable; urgency=medium
 
