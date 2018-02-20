@@ -8,6 +8,9 @@ sweeper (4:17.12.2-0r1) UNRELEASED; urgency=medium
       libkf5bookmarks-dev, libkf5config-dev, libkf5configwidgets-dev,
       libkf5coreaddons-dev, libkf5crash-dev, libkf5doctools-dev,
       libkf5i18n-dev, libkf5kio-dev, libkf5textwidgets-dev, libkf5xmlgui-dev
+  * Use the right makefile class:
+    - use debian-qt-kde.mk v3
+    - bump the pkg-kde-tools build dependency to >= 0.15.16
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Feb 2018 14:19:14 +0100
 
