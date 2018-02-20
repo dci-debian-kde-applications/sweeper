@@ -12,6 +12,7 @@ sweeper (4:17.12.2-0r1) UNRELEASED; urgency=medium
     - use debian-qt-kde.mk v3
     - bump the pkg-kde-tools build dependency to >= 0.15.16
   * Break/replace against kde-l10n that ships translations.
+  * Use https for Format in copyright.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Feb 2018 14:19:14 +0100
 
