@@ -1,3 +1,10 @@
+sweeper (4:17.12.2-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 20 Feb 2018 14:19:14 +0100
+
 sweeper (4:17.08.3-1) unstable; urgency=medium
 
   * Team upload.
