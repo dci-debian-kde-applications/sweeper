@@ -1,7 +1,8 @@
 sweeper (4:17.12.2-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
-  * New upstream release.
+  * New upstream release:
+    - switches to Qt5/KF5 (Closes: #875198)
   * Update the build dependencies following the port to Frameworks:
     - remove kde-sc-dev-latest, and kdelibs5-dev
     - add extra-cmake-modules, qtbase5-dev, libkf5activitiesstats-dev,
